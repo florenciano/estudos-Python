@@ -1,0 +1,6 @@
+; Lorem
+> alinhado a direita
+* alinhado ao centro
+= Lorem
+linha normal
+outra linha normal
